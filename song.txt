@@ -5,6 +5,3 @@ on this their chosen battle field
 
 from the lines
 Shield by shield
-
-somew content
-add here!
